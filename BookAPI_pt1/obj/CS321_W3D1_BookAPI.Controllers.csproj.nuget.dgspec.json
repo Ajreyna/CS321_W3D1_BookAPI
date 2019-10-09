@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/WIZ4RD/Projects/BookAPI_pt1/BookAPI_pt1/CS321_W3D1_BookAPI.Controllers.csproj": {}
+  },
+  "projects": {
+    "/Users/WIZ4RD/Projects/BookAPI_pt1/BookAPI_pt1/CS321_W3D1_BookAPI.Controllers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/WIZ4RD/Projects/BookAPI_pt1/BookAPI_pt1/CS321_W3D1_BookAPI.Controllers.csproj",
+        "projectName": "CS321_W3D1_BookAPI.Controllers",
+        "projectPath": "/Users/WIZ4RD/Projects/BookAPI_pt1/BookAPI_pt1/CS321_W3D1_BookAPI.Controllers.csproj",
+        "packagesPath": "/Users/WIZ4RD/.nuget/packages/",
+        "outputPath": "/Users/WIZ4RD/Projects/BookAPI_pt1/BookAPI_pt1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/WIZ4RD/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
